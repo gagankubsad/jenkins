@@ -1,1 +1,1 @@
-echo "$date" >> op.txt
+echo "date" >> op.txt
